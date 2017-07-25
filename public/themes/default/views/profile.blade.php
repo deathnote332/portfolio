@@ -339,7 +339,7 @@
             </div>
             <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
-                    <img  src="../assets/images/svg/jquery.svg">
+                    <img  src="../assets/images/svg/jquery.svg">iv
                 </div>
             </div>
             <div class="col-md-3 col-xs-6">
