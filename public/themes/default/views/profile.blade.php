@@ -316,74 +316,47 @@
         </div>
         <div class="row wow bounceInDown">
 
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/html.svg">
 
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/css.svg">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/bootstrap.svg">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img src="../assets/images/js.png">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/jquery.svg">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/php.svg">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/laravel.svg">
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
                     <img  src="../assets/images/svg/mysql.svg">
                 </div>
             </div>
-
-<!--               <ul>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/html.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/css.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/js.png">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/bootstrap.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/jquery.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/php.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/laravel.svg">-->
-<!--                   </li>-->
-<!--                   <li>-->
-<!--                       <img src="../assets/images/svg/mysql.svg">-->
-<!--                   </li>-->
-<!--               </ul>-->
 
         </div>
     </div>
