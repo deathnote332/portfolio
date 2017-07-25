@@ -56,7 +56,7 @@
 
         <div class="row">
             <div class="col-md-4 wow fadeIn">
-                <img src="../assets/images/jp.jpg" class="img-responsive center-block">
+                <img src="../assets/images/jp.JPG" class="img-responsive center-block">
             </div>
             <div class="col-md-4 text-center wow fadeIn ">
                 <div class="about-header">
