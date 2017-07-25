@@ -635,54 +635,56 @@
     })
 
 
-    // Scroll to top
+    $(document).ready(function(){
+        // Scroll to top
 
-    $('.scroll-top').hide()
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 400) {
-            $('.scroll-top').fadeIn();
-        } else {
-            $('.scroll-top').fadeOut();
-        }
-
-    });
-
-    $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:10,
-        nav:true,
-
-        navText: ["<img src='../assets/images/btn-left.png'>","<img src='../assets/images/btn-right.png'>"],
-
-        responsive:{
-            0:{
-                items:1
-            },
-            600:{
-                items:1
-            },
-            1000:{
-                items:1
+        $('.scroll-top').hide()
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 400) {
+                $('.scroll-top').fadeIn();
+            } else {
+                $('.scroll-top').fadeOut();
             }
-        }
+
+        });
+
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:true,
+
+            navText: ["<img src='../assets/images/btn-left.png'>","<img src='../assets/images/btn-right.png'>"],
+
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+
+        jQuery('a.page-scroll').bind('click', function(event) {
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top
+            }, 1500, 'easeInOutExpo');
+            event.preventDefault();
+        });
+
+        // Closes Responsive Menu on Menu Item Click
+
+        jQuery('.navbar-collapse ul li a').click(function() {
+            $('.navbar-toggle:visible').click();
+        });
+
+        // Animation reveal on scroll
+
+        new WOW().init()
     })
-
-    jQuery('a.page-scroll').bind('click', function(event) {
-        var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
-        }, 1500, 'easeInOutExpo');
-        event.preventDefault();
-    });
-
-    // Closes Responsive Menu on Menu Item Click
-
-    jQuery('.navbar-collapse ul li a').click(function() {
-        $('.navbar-toggle:visible').click();
-    });
-
-    // Animation reveal on scroll
-
-    new WOW().init()
 
 </script>
