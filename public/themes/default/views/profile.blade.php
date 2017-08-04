@@ -130,7 +130,7 @@
                 <div class="col-md-12 text-center">
                     <div class="col-md-6">
                         <div class="portfolio-img">
-                            <img class="img-responsive" src="">
+                            <img class="img-responsive" src="../assets/images/papers.jpg">
                         </div>
 
                     </div>
@@ -143,8 +143,8 @@
                             <div class="title">
                                 Project Description
                             </div>
-                            <p>Papersllc is an online boarding for asylum and illegal immigrant in ___.
-                                Currently utilize in ___ by ______
+                            <p>Papersllc is an online boarding for asylum and illegal immigrant in US particularly in California.
+                                The main focus of the development is to create an automated workflow process manager that will help the client to reduce the administrative work done by a manual and/or disparate intake process for CARACEN and its affiliated agencies. To lower the time spent in scheduling appointments, answering case status from clients and assisting clients in gathering supporting documents before the initial consultation appointment is conducted.
                             </p>
 
                             <div class="title">
@@ -154,7 +154,7 @@
                             <div class="title">
                                 Project tools
                             </div>
-                            <p>HTML, Css, PHP, Jquery, Mysql</p>
+                            <p>HTML, Css, PHP, Ajax, Jquery, Mysql</p>
                             <div class="button-preview">
                                 <a href="#">PREVIEW</a>
                             </div>
@@ -167,7 +167,7 @@
                 <div class="col-md-12 text-center">
                     <div class="col-md-6">
                         <div class="portfolio-img">
-                            <img class="img-responsive" src="">
+                            <img class="img-responsive" src="../assets/images/catering.png">
                         </div>
 
                     </div>
@@ -237,7 +237,7 @@
                 <div class="col-md-12 text-center">
                     <div class="col-md-6">
                         <div class="portfolio-img">
-                            <img class="img-responsive" src="">
+                            <img class="img-responsive" src="../assets/images/queuing.png">
                         </div>
 
                     </div>
