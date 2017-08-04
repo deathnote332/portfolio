@@ -99,7 +99,7 @@
                         </li>
                         <li>
                             <i class="fa fa-coffee"></i>
-                            <h5>Coffe</h5>
+                            <h5>Coffee</h5>
                         </li>
                         <li>
                             <i class="fa fa-plane"></i>
@@ -339,7 +339,7 @@
             </div>
             <div class="col-md-3 col-xs-6">
                 <div class="skill-img">
-                    <img  src="../assets/images/svg/jquery.svg">iv
+                    <img  src="../assets/images/svg/jquery.svg">
                 </div>
             </div>
             <div class="col-md-3 col-xs-6">
@@ -413,7 +413,7 @@
                                     REPUBLISYS INC.
                                </div>
                                 <div class="work-date">
-                                    2016-Current
+                                    June 2016 - Current
                                 </div>
                                 <div class="work-position">
                                     Junior Software Developer
@@ -442,13 +442,13 @@
                                     MCOAT PAINT COMMERCIAL AND MDSE
                                 </div>
                                 <div class="work-date">
-                                    2014-2015
+                                    April 2014 - February 2016
                                 </div>
                                 <div class="work-position">
                                     System Developer
                                 </div>
                                 <div class="work-responsibility">
-                                    I work as for almost 2years as a part time developer and 3 months for OJT.
+                                    I work for almost 2years as a part time developer and 3 months for OJT.
                                 </div>
                             </div>
                         </div>
