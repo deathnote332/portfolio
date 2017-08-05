@@ -404,7 +404,7 @@
                     <div class="work-container wow fadeInUp data-wow-delay=".3s">
                         <span class="fa fa-circle-o"></span>
                         <div class="work-image">
-                            <img class="img-responsive" src="">
+                            <img class="img-responsive" src="../assets/images/republisys.png">
                         </div>
                         <div class="work-info">
 
@@ -433,7 +433,7 @@
                     <div class="work-container wow fadeInUp" data-wow-delay=".3s">
                         <span class="fa fa-circle-o"></span>
                         <div class="work-image">
-                            <img class="img-responsive" src="">
+                            <img class="img-responsive" src="../assets/images/mcoat.jpg">
                         </div>
                         <div class="work-info">
 
@@ -561,7 +561,7 @@
             <div class="col-md-6 col-xs-6 wow fadeInDown" data-wow-delay="1s">
                 <i class="fa fa-envelope fa-lg"></i>
                 <h5>EMAIL</h5>
-                <p>aexils@gmail.com</p>
+                <p>aexilsxd@gmail.com</p>
             </div>
             <div class="col-md-6 col-xs-6  wow fadeInDown" data-wow-delay="2s">
                 <i class="fa fa-phone fa-lg"></i>
@@ -591,7 +591,7 @@
     <div class="col-md-12 text-center">
         <a href="https://github.com/deathnote332"><i class="fa fa-github fa-2x"></i></a>
         <a href="https://stackoverflow.com/users/6850994/paul"><i class="fa fa-stack-overflow fa-2x"></i></a>
-        <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+        <a href="https://www.facebook.com/jampolXD"><i class="fa fa-facebook fa-2x"></i></a>
         <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
         <a href="#"><i class="fa fa-google-plus fa-2x"></i></a>
     </div>
