@@ -401,7 +401,7 @@
                     </div>
 
 
-                    <div class="work-container wow fadeInUp data-wow-delay=".3s">
+                    <div class="work-container wow fadeInUp" data-wow-delay=".3s">
                         <span class="fa fa-circle-o"></span>
                         <div class="work-image">
                             <img class="img-responsive" src="../assets/images/republisys.png">
